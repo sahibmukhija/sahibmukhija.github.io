@@ -1,0 +1,2432 @@
+﻿[
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Savings: Fahrschule",
+        "CategoryGroup": "Savings",
+        "Category": "Fahrschule",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Savings: CHI '17 Funds",
+        "CategoryGroup": "Savings",
+        "Category": "CHI '17 Funds",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Savings: Lights",
+        "CategoryGroup": "Savings",
+        "Category": "Lights",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Savings: Savings account",
+        "CategoryGroup": "Savings",
+        "Category": "Savings account",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Savings: Sent back home to parents",
+        "CategoryGroup": "Savings",
+        "Category": "Sent back home to parents",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Everyday Expenses: Groceries",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Groceries",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Everyday Expenses: Eating Out",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Eating Out",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Everyday Expenses: Household Goods",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Household Goods",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Everyday Expenses: Clothing",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Clothing",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Everyday Expenses: Giving",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Giving",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Everyday Expenses: Books",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Books",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Everyday Expenses: Mensa",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Mensa",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Everyday Expenses: Gifts",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Gifts",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Everyday Expenses: Fun",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Fun",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Everyday Expenses: Stuff I Forgot to Budget For",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Stuff I Forgot to Budget For",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Subscriptions: Insurance",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Insurance",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Subscriptions: Rent/Mortgage",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Rent/Mortgage",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Subscriptions: Internet",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Internet",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Subscriptions: Gym",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Gym",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Subscriptions: Electric",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Electric",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Subscriptions: Apple iCloud",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple iCloud",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Subscriptions: Mobile",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Mobile",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Subscriptions: Apple Music",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple Music",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Me :)",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Me :)",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Vacation",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Vacation",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: To give back at the University",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "To give back at the University",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Research Breakfast",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Research Breakfast",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: SmartVOIP",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "SmartVOIP",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Semester Fee",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Semester Fee",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-09-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Misc.",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Misc.",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Savings: Fahrschule",
+        "CategoryGroup": "Savings",
+        "Category": "Fahrschule",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Savings: CHI '17 Funds",
+        "CategoryGroup": "Savings",
+        "Category": "CHI '17 Funds",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Savings: Lights",
+        "CategoryGroup": "Savings",
+        "Category": "Lights",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Savings: Savings account",
+        "CategoryGroup": "Savings",
+        "Category": "Savings account",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Savings: Sent back home to parents",
+        "CategoryGroup": "Savings",
+        "Category": "Sent back home to parents",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Everyday Expenses: Groceries",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Groceries",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Everyday Expenses: Eating Out",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Eating Out",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Everyday Expenses: Household Goods",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Household Goods",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Everyday Expenses: Clothing",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Clothing",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Everyday Expenses: Giving",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Giving",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Everyday Expenses: Books",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Books",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Everyday Expenses: Mensa",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Mensa",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Everyday Expenses: Gifts",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Gifts",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Everyday Expenses: Fun",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Fun",
+        "Budgeted": "0.00",
+        "Spent": "-200.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Everyday Expenses: Stuff I Forgot to Budget For",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Stuff I Forgot to Budget For",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Subscriptions: Insurance",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Insurance",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Subscriptions: Rent/Mortgage",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Rent/Mortgage",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Subscriptions: Internet",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Internet",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Subscriptions: Gym",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Gym",
+        "Budgeted": "0.00",
+        "Spent": "-500.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Subscriptions: Electric",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Electric",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Subscriptions: Apple iCloud",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple iCloud",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-15",
+        "CategoryGroup/Category": "Subscriptions: Mobile",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Mobile",
+        "Budgeted": "0.00",
+        "Spent": "-300.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Subscriptions: Apple Music",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple Music",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Me :)",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Me :)",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Vacation",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Vacation",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: To give back at the University",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "To give back at the University",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Research Breakfast",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Research Breakfast",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: SmartVOIP",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "SmartVOIP",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Semester Fee",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Semester Fee",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-10-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Misc.",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Misc.",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Savings: Fahrschule",
+        "CategoryGroup": "Savings",
+        "Category": "Fahrschule",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Savings: CHI '17 Funds",
+        "CategoryGroup": "Savings",
+        "Category": "CHI '17 Funds",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Savings: Lights",
+        "CategoryGroup": "Savings",
+        "Category": "Lights",
+        "Budgeted": "204.33",
+        "Spent": "0.00",
+        "Available": "204.33"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Savings: Savings account",
+        "CategoryGroup": "Savings",
+        "Category": "Savings account",
+        "Budgeted": "100.00",
+        "Spent": "-100.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Savings: Sent back home to parents",
+        "CategoryGroup": "Savings",
+        "Category": "Sent back home to parents",
+        "Budgeted": "1350.00",
+        "Spent": "-1350.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Everyday Expenses: Groceries",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Groceries",
+        "Budgeted": "205.00",
+        "Spent": "-203.11",
+        "Available": "1.89"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Everyday Expenses: Eating Out",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Eating Out",
+        "Budgeted": "250.00",
+        "Spent": "-247.54",
+        "Available": "2.46"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Everyday Expenses: Household Goods",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Household Goods",
+        "Budgeted": "50.00",
+        "Spent": "-49.70",
+        "Available": "0.30"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Everyday Expenses: Clothing",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Clothing",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Everyday Expenses: Giving",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Giving",
+        "Budgeted": "5.00",
+        "Spent": "-5.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Everyday Expenses: Books",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Books",
+        "Budgeted": "18.47",
+        "Spent": "-18.47",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Everyday Expenses: Mensa",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Mensa",
+        "Budgeted": "20.00",
+        "Spent": "-20.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Everyday Expenses: Gifts",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Gifts",
+        "Budgeted": "153.45",
+        "Spent": "-103.45",
+        "Available": "50.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Everyday Expenses: Fun",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Fun",
+        "Budgeted": "100.00",
+        "Spent": "-99.06",
+        "Available": "0.94"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Everyday Expenses: Stuff I Forgot to Budget For",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Stuff I Forgot to Budget For",
+        "Budgeted": "475.00",
+        "Spent": "-419.70",
+        "Available": "55.30"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Subscriptions: Insurance",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Insurance",
+        "Budgeted": "57.95",
+        "Spent": "-57.95",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Subscriptions: Rent/Mortgage",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Rent/Mortgage",
+        "Budgeted": "462.00",
+        "Spent": "-462.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Subscriptions: Internet",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Internet",
+        "Budgeted": "69.94",
+        "Spent": "-69.94",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Subscriptions: Gym",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Gym",
+        "Budgeted": "19.90",
+        "Spent": "-19.90",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Subscriptions: Electric",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Electric",
+        "Budgeted": "43.00",
+        "Spent": "-43.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Subscriptions: Apple iCloud",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple iCloud",
+        "Budgeted": "3.99",
+        "Spent": "-3.99",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Subscriptions: Mobile",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Mobile",
+        "Budgeted": "12.99",
+        "Spent": "-12.99",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Subscriptions: Apple Music",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple Music",
+        "Budgeted": "4.99",
+        "Spent": "-4.99",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Me :)",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Me :)",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Vacation",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Vacation",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: To give back at the University",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "To give back at the University",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Research Breakfast",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Research Breakfast",
+        "Budgeted": "58.00",
+        "Spent": "-48.65",
+        "Available": "9.35"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: SmartVOIP",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "SmartVOIP",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Semester Fee",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Semester Fee",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-11-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Misc.",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Misc.",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Savings: Fahrschule",
+        "CategoryGroup": "Savings",
+        "Category": "Fahrschule",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Savings: CHI '17 Funds",
+        "CategoryGroup": "Savings",
+        "Category": "CHI '17 Funds",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Savings: Lights",
+        "CategoryGroup": "Savings",
+        "Category": "Lights",
+        "Budgeted": "195.73",
+        "Spent": "0.00",
+        "Available": "400.06"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Savings: Savings account",
+        "CategoryGroup": "Savings",
+        "Category": "Savings account",
+        "Budgeted": "250.00",
+        "Spent": "-250.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Savings: Sent back home to parents",
+        "CategoryGroup": "Savings",
+        "Category": "Sent back home to parents",
+        "Budgeted": "750.00",
+        "Spent": "-750.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Everyday Expenses: Groceries",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Groceries",
+        "Budgeted": "184.25",
+        "Spent": "-186.57",
+        "Available": "-0.43"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Everyday Expenses: Eating Out",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Eating Out",
+        "Budgeted": "140.00",
+        "Spent": "-141.67",
+        "Available": "0.79"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Everyday Expenses: Household Goods",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Household Goods",
+        "Budgeted": "60.00",
+        "Spent": "-58.86",
+        "Available": "1.44"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Everyday Expenses: Clothing",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Clothing",
+        "Budgeted": "24.99",
+        "Spent": "-24.99",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Everyday Expenses: Giving",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Giving",
+        "Budgeted": "5.00",
+        "Spent": "-5.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Everyday Expenses: Books",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Books",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Everyday Expenses: Mensa",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Mensa",
+        "Budgeted": "20.00",
+        "Spent": "-20.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Everyday Expenses: Gifts",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Gifts",
+        "Budgeted": "132.00",
+        "Spent": "-181.82",
+        "Available": "0.18"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Everyday Expenses: Fun",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Fun",
+        "Budgeted": "180.00",
+        "Spent": "-168.39",
+        "Available": "12.55"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Everyday Expenses: Stuff I Forgot to Budget For",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Stuff I Forgot to Budget For",
+        "Budgeted": "80.00",
+        "Spent": "-133.05",
+        "Available": "2.25"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Subscriptions: Insurance",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Insurance",
+        "Budgeted": "57.95",
+        "Spent": "-57.95",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Subscriptions: Rent/Mortgage",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Rent/Mortgage",
+        "Budgeted": "462.00",
+        "Spent": "-462.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Subscriptions: Internet",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Internet",
+        "Budgeted": "69.94",
+        "Spent": "-69.94",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Subscriptions: Gym",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Gym",
+        "Budgeted": "19.90",
+        "Spent": "-19.90",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Subscriptions: Electric",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Electric",
+        "Budgeted": "237.01",
+        "Spent": "-237.01",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Subscriptions: Apple iCloud",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple iCloud",
+        "Budgeted": "2.99",
+        "Spent": "-2.99",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Subscriptions: Mobile",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Mobile",
+        "Budgeted": "15.02",
+        "Spent": "-15.02",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Subscriptions: Apple Music",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple Music",
+        "Budgeted": "4.99",
+        "Spent": "-4.99",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Me :)",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Me :)",
+        "Budgeted": "39.39",
+        "Spent": "-39.38",
+        "Available": "0.01"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Vacation",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Vacation",
+        "Budgeted": "200.00",
+        "Spent": "0.00",
+        "Available": "200.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: To give back at the University",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "To give back at the University",
+        "Budgeted": "100.00",
+        "Spent": "-100.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Research Breakfast",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Research Breakfast",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "9.35"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: SmartVOIP",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "SmartVOIP",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Semester Fee",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Semester Fee",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2016-12-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Misc.",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Misc.",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Savings: Fahrschule",
+        "CategoryGroup": "Savings",
+        "Category": "Fahrschule",
+        "Budgeted": "250.00",
+        "Spent": "0.00",
+        "Available": "250.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Savings: CHI '17 Funds",
+        "CategoryGroup": "Savings",
+        "Category": "CHI '17 Funds",
+        "Budgeted": "300.00",
+        "Spent": "0.00",
+        "Available": "300.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Savings: Lights",
+        "CategoryGroup": "Savings",
+        "Category": "Lights",
+        "Budgeted": "50.00",
+        "Spent": "0.00",
+        "Available": "450.06"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Savings: Savings account",
+        "CategoryGroup": "Savings",
+        "Category": "Savings account",
+        "Budgeted": "50.00",
+        "Spent": "-50.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Savings: Sent back home to parents",
+        "CategoryGroup": "Savings",
+        "Category": "Sent back home to parents",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Everyday Expenses: Groceries",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Groceries",
+        "Budgeted": "175.00",
+        "Spent": "-171.90",
+        "Available": "3.10"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Everyday Expenses: Eating Out",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Eating Out",
+        "Budgeted": "100.00",
+        "Spent": "-88.33",
+        "Available": "12.46"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Everyday Expenses: Household Goods",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Household Goods",
+        "Budgeted": "25.00",
+        "Spent": "-12.40",
+        "Available": "14.04"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Everyday Expenses: Clothing",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Clothing",
+        "Budgeted": "119.85",
+        "Spent": "-64.14",
+        "Available": "55.71"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Everyday Expenses: Giving",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Giving",
+        "Budgeted": "5.00",
+        "Spent": "-5.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Everyday Expenses: Books",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Books",
+        "Budgeted": "15.73",
+        "Spent": "-15.73",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Everyday Expenses: Mensa",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Mensa",
+        "Budgeted": "40.00",
+        "Spent": "-40.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Everyday Expenses: Gifts",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Gifts",
+        "Budgeted": "20.00",
+        "Spent": "0.00",
+        "Available": "20.18"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Everyday Expenses: Fun",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Fun",
+        "Budgeted": "50.00",
+        "Spent": "0.00",
+        "Available": "62.55"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Everyday Expenses: Stuff I Forgot to Budget For",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Stuff I Forgot to Budget For",
+        "Budgeted": "245.00",
+        "Spent": "-235.64",
+        "Available": "11.61"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Subscriptions: Insurance",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Insurance",
+        "Budgeted": "57.95",
+        "Spent": "-57.95",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Subscriptions: Rent/Mortgage",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Rent/Mortgage",
+        "Budgeted": "462.00",
+        "Spent": "-462.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Subscriptions: Internet",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Internet",
+        "Budgeted": "69.94",
+        "Spent": "-69.94",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Subscriptions: Gym",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Gym",
+        "Budgeted": "19.90",
+        "Spent": "-19.90",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Subscriptions: Electric",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Electric",
+        "Budgeted": "60.00",
+        "Spent": "-60.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Subscriptions: Apple iCloud",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple iCloud",
+        "Budgeted": "2.99",
+        "Spent": "-2.99",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Subscriptions: Mobile",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Mobile",
+        "Budgeted": "20.00",
+        "Spent": "-19.99",
+        "Available": "0.01"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Subscriptions: Apple Music",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple Music",
+        "Budgeted": "4.99",
+        "Spent": "-4.99",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Me :)",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Me :)",
+        "Budgeted": "40.00",
+        "Spent": "-19.00",
+        "Available": "21.01"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Vacation",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Vacation",
+        "Budgeted": "175.00",
+        "Spent": "0.00",
+        "Available": "375.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: To give back at the University",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "To give back at the University",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Research Breakfast",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Research Breakfast",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "9.35"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: SmartVOIP",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "SmartVOIP",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Semester Fee",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Semester Fee",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-01-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Misc.",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Misc.",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Savings: Fahrschule",
+        "CategoryGroup": "Savings",
+        "Category": "Fahrschule",
+        "Budgeted": "0.00",
+        "Spent": "-50.00",
+        "Available": "200.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Savings: CHI '17 Funds",
+        "CategoryGroup": "Savings",
+        "Category": "CHI '17 Funds",
+        "Budgeted": "350.00",
+        "Spent": "0.00",
+        "Available": "650.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Savings: Lights",
+        "CategoryGroup": "Savings",
+        "Category": "Lights",
+        "Budgeted": "0.00",
+        "Spent": "-304.58",
+        "Available": "145.48"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Savings: Savings account",
+        "CategoryGroup": "Savings",
+        "Category": "Savings account",
+        "Budgeted": "125.00",
+        "Spent": "0.00",
+        "Available": "125.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Savings: Sent back home to parents",
+        "CategoryGroup": "Savings",
+        "Category": "Sent back home to parents",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Everyday Expenses: Groceries",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Groceries",
+        "Budgeted": "225.05",
+        "Spent": "-238.94",
+        "Available": "-10.79"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Everyday Expenses: Eating Out",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Eating Out",
+        "Budgeted": "145.99",
+        "Spent": "-158.45",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Everyday Expenses: Household Goods",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Household Goods",
+        "Budgeted": "90.00",
+        "Spent": "-104.01",
+        "Available": "0.03"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Everyday Expenses: Clothing",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Clothing",
+        "Budgeted": "294.84",
+        "Spent": "-350.55",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Everyday Expenses: Giving",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Giving",
+        "Budgeted": "5.00",
+        "Spent": "0.00",
+        "Available": "5.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Everyday Expenses: Books",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Books",
+        "Budgeted": "15.00",
+        "Spent": "-12.98",
+        "Available": "2.02"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Everyday Expenses: Mensa",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Mensa",
+        "Budgeted": "20.00",
+        "Spent": "0.00",
+        "Available": "20.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Everyday Expenses: Gifts",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Gifts",
+        "Budgeted": "5.00",
+        "Spent": "-7.99",
+        "Available": "17.19"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Everyday Expenses: Fun",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Fun",
+        "Budgeted": "15.00",
+        "Spent": "-25.99",
+        "Available": "51.56"
+    },
+    {
+        "date": "2017-02-15",
+        "CategoryGroup/Category": "Everyday Expenses: Stuff I Forgot to Budget For",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Stuff I Forgot to Budget For",
+        "Budgeted": "162.81",
+        "Spent": "-135.64",
+        "Available": "38.78"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Subscriptions: Insurance",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Insurance",
+        "Budgeted": "57.95",
+        "Spent": "0.00",
+        "Available": "57.95"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Subscriptions: Rent/Mortgage",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Rent/Mortgage",
+        "Budgeted": "462.00",
+        "Spent": "-462.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Subscriptions: Internet",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Internet",
+        "Budgeted": "69.94",
+        "Spent": "-29.99",
+        "Available": "39.95"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Subscriptions: Gym",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Gym",
+        "Budgeted": "19.90",
+        "Spent": "0.00",
+        "Available": "19.90"
+    },
+    {
+        "date": "2017-02-15",
+        "CategoryGroup/Category": "Subscriptions: Electric",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Electric",
+        "Budgeted": "60.00",
+        "Spent": "-260.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Subscriptions: Apple iCloud",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple iCloud",
+        "Budgeted": "2.99",
+        "Spent": "-2.99",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Subscriptions: Mobile",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Mobile",
+        "Budgeted": "19.99",
+        "Spent": "-19.99",
+        "Available": "0.01"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Subscriptions: Apple Music",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple Music",
+        "Budgeted": "4.99",
+        "Spent": "0.00",
+        "Available": "4.99"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Me :)",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Me :)",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "21.01"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Vacation",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Vacation",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "375.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: To give back at the University",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "To give back at the University",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Research Breakfast",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Research Breakfast",
+        "Budgeted": "45.00",
+        "Spent": "-54.17",
+        "Available": "0.18"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: SmartVOIP",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "SmartVOIP",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Semester Fee",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Semester Fee",
+        "Budgeted": "252.41",
+        "Spent": "-252.41",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-02-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Misc.",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Misc.",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Savings: Fahrschule",
+        "CategoryGroup": "Savings",
+        "Category": "Fahrschule",
+        "Budgeted": "-200.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Savings: CHI '17 Funds",
+        "CategoryGroup": "Savings",
+        "Category": "CHI '17 Funds",
+        "Budgeted": "1332.45",
+        "Spent": "-1582.45",
+        "Available": "400.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Savings: Lights",
+        "CategoryGroup": "Savings",
+        "Category": "Lights",
+        "Budgeted": "-145.48",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Savings: Savings account",
+        "CategoryGroup": "Savings",
+        "Category": "Savings account",
+        "Budgeted": "-125.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Savings: Sent back home to parents",
+        "CategoryGroup": "Savings",
+        "Category": "Sent back home to parents",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Everyday Expenses: Groceries",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Groceries",
+        "Budgeted": "235.00",
+        "Spent": "-231.20",
+        "Available": "3.80"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Everyday Expenses: Eating Out",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Eating Out",
+        "Budgeted": "160.00",
+        "Spent": "-159.84",
+        "Available": "0.16"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Everyday Expenses: Household Goods",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Household Goods",
+        "Budgeted": "200.00",
+        "Spent": "-178.19",
+        "Available": "21.84"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Everyday Expenses: Clothing",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Clothing",
+        "Budgeted": "85.80",
+        "Spent": "-85.80",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Everyday Expenses: Giving",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Giving",
+        "Budgeted": "45.00",
+        "Spent": "-50.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Everyday Expenses: Books",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Books",
+        "Budgeted": "12.97",
+        "Spent": "-14.99",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Everyday Expenses: Mensa",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Mensa",
+        "Budgeted": "15.00",
+        "Spent": "-20.00",
+        "Available": "15.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Everyday Expenses: Gifts",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Gifts",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "17.19"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Everyday Expenses: Fun",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Fun",
+        "Budgeted": "0.00",
+        "Spent": "-33.43",
+        "Available": "18.13"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Everyday Expenses: Stuff I Forgot to Budget For",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Stuff I Forgot to Budget For",
+        "Budgeted": "322.74",
+        "Spent": "-354.14",
+        "Available": "7.38"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Subscriptions: Insurance",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Insurance",
+        "Budgeted": "0.00",
+        "Spent": "-57.95",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Subscriptions: Rent/Mortgage",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Rent/Mortgage",
+        "Budgeted": "462.00",
+        "Spent": "-462.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Subscriptions: Internet",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Internet",
+        "Budgeted": "69.95",
+        "Spent": "-109.89",
+        "Available": "0.01"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Subscriptions: Gym",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Gym",
+        "Budgeted": "19.90",
+        "Spent": "-19.90",
+        "Available": "19.90"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Subscriptions: Electric",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Electric",
+        "Budgeted": "60.00",
+        "Spent": "-60.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Subscriptions: Apple iCloud",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple iCloud",
+        "Budgeted": "2.99",
+        "Spent": "-2.99",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Subscriptions: Mobile",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Mobile",
+        "Budgeted": "20.00",
+        "Spent": "-19.99",
+        "Available": "0.02"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Subscriptions: Apple Music",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple Music",
+        "Budgeted": "4.99",
+        "Spent": "-4.99",
+        "Available": "4.99"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Me :)",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Me :)",
+        "Budgeted": "47.55",
+        "Spent": "-34.99",
+        "Available": "33.57"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Vacation",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Vacation",
+        "Budgeted": "-375.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: To give back at the University",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "To give back at the University",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Research Breakfast",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Research Breakfast",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.18"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: SmartVOIP",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "SmartVOIP",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Semester Fee",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Semester Fee",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-03-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Misc.",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Misc.",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Savings: Fahrschule",
+        "CategoryGroup": "Savings",
+        "Category": "Fahrschule",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Savings: CHI '17 Funds",
+        "CategoryGroup": "Savings",
+        "Category": "CHI '17 Funds",
+        "Budgeted": "400.00",
+        "Spent": "0.00",
+        "Available": "800.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Savings: Lights",
+        "CategoryGroup": "Savings",
+        "Category": "Lights",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Savings: Savings account",
+        "CategoryGroup": "Savings",
+        "Category": "Savings account",
+        "Budgeted": "638.44",
+        "Spent": "0.00",
+        "Available": "638.44"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Savings: Sent back home to parents",
+        "CategoryGroup": "Savings",
+        "Category": "Sent back home to parents",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Everyday Expenses: Groceries",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Groceries",
+        "Budgeted": "175.00",
+        "Spent": "-190.07",
+        "Available": "-11.27"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Everyday Expenses: Eating Out",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Eating Out",
+        "Budgeted": "150.00",
+        "Spent": "-64.10",
+        "Available": "86.06"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Everyday Expenses: Household Goods",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Household Goods",
+        "Budgeted": "80.00",
+        "Spent": "-89.88",
+        "Available": "11.96"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Everyday Expenses: Clothing",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Clothing",
+        "Budgeted": "50.00",
+        "Spent": "0.00",
+        "Available": "50.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Everyday Expenses: Giving",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Giving",
+        "Budgeted": "5.00",
+        "Spent": "-5.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Everyday Expenses: Books",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Books",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Everyday Expenses: Mensa",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Mensa",
+        "Budgeted": "20.00",
+        "Spent": "0.00",
+        "Available": "35.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Everyday Expenses: Gifts",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Gifts",
+        "Budgeted": "25.00",
+        "Spent": "0.00",
+        "Available": "42.19"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Everyday Expenses: Fun",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Fun",
+        "Budgeted": "30.00",
+        "Spent": "-11.50",
+        "Available": "36.63"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Everyday Expenses: Stuff I Forgot to Budget For",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Stuff I Forgot to Budget For",
+        "Budgeted": "50.00",
+        "Spent": "-1.60",
+        "Available": "55.78"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Subscriptions: Insurance",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Insurance",
+        "Budgeted": "57.95",
+        "Spent": "-57.95",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Subscriptions: Rent/Mortgage",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Rent/Mortgage",
+        "Budgeted": "462.00",
+        "Spent": "-462.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Subscriptions: Internet",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Internet",
+        "Budgeted": "69.95",
+        "Spent": "0.00",
+        "Available": "69.96"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Subscriptions: Gym",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Gym",
+        "Budgeted": "19.90",
+        "Spent": "-19.90",
+        "Available": "19.90"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Subscriptions: Electric",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Electric",
+        "Budgeted": "60.00",
+        "Spent": "0.00",
+        "Available": "60.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Subscriptions: Apple iCloud",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple iCloud",
+        "Budgeted": "2.99",
+        "Spent": "0.00",
+        "Available": "2.99"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Subscriptions: Mobile",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Mobile",
+        "Budgeted": "19.90",
+        "Spent": "0.00",
+        "Available": "19.92"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Subscriptions: Apple Music",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple Music",
+        "Budgeted": "4.99",
+        "Spent": "0.00",
+        "Available": "9.98"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Me :)",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Me :)",
+        "Budgeted": "50.00",
+        "Spent": "0.00",
+        "Available": "83.57"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Vacation",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Vacation",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: To give back at the University",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "To give back at the University",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Research Breakfast",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Research Breakfast",
+        "Budgeted": "40.00",
+        "Spent": "-19.40",
+        "Available": "20.78"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: SmartVOIP",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "SmartVOIP",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Semester Fee",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Semester Fee",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-04-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Misc.",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Misc.",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Savings: Fahrschule",
+        "CategoryGroup": "Savings",
+        "Category": "Fahrschule",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Savings: CHI '17 Funds",
+        "CategoryGroup": "Savings",
+        "Category": "CHI '17 Funds",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "800.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Savings: Lights",
+        "CategoryGroup": "Savings",
+        "Category": "Lights",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Savings: Savings account",
+        "CategoryGroup": "Savings",
+        "Category": "Savings account",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "638.44"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Savings: Sent back home to parents",
+        "CategoryGroup": "Savings",
+        "Category": "Sent back home to parents",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Everyday Expenses: Groceries",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Groceries",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Everyday Expenses: Eating Out",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Eating Out",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "86.06"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Everyday Expenses: Household Goods",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Household Goods",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "11.96"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Everyday Expenses: Clothing",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Clothing",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "50.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Everyday Expenses: Giving",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Giving",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Everyday Expenses: Books",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Books",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Everyday Expenses: Mensa",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Mensa",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "35.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Everyday Expenses: Gifts",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Gifts",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "42.19"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Everyday Expenses: Fun",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Fun",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "36.63"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Everyday Expenses: Stuff I Forgot to Budget For",
+        "CategoryGroup": "Everyday Expenses",
+        "Category": "Stuff I Forgot to Budget For",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "55.78"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Subscriptions: Insurance",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Insurance",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Subscriptions: Rent/Mortgage",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Rent/Mortgage",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Subscriptions: Internet",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Internet",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "69.96"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Subscriptions: Gym",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Gym",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "19.90"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Subscriptions: Electric",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Electric",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "60.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Subscriptions: Apple iCloud",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple iCloud",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "2.99"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Subscriptions: Mobile",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Mobile",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "19.92"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Subscriptions: Apple Music",
+        "CategoryGroup": "Subscriptions",
+        "Category": "Apple Music",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "9.98"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Me :)",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Me :)",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "83.57"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Quality of Life Goals: Vacation",
+        "CategoryGroup": "Quality of Life Goals",
+        "Category": "Vacation",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: To give back at the University",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "To give back at the University",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Research Breakfast",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Research Breakfast",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "20.78"
+    },
+    {
+        "date": "2017-05-01",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: SmartVOIP",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "SmartVOIP",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-30",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Semester Fee",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Semester Fee",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    },
+    {
+        "date": "2017-05-25",
+        "CategoryGroup/Category": "Once-in-a-while Expenses: Misc.",
+        "CategoryGroup": "Once-in-a-while Expenses",
+        "Category": "Misc.",
+        "Budgeted": "0.00",
+        "Spent": "0.00",
+        "Available": "0.00"
+    }
+]

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Sahib Mukhija</title>
+		<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/dc/2.1.7/dc.css" media="screen" /> 
+	
+	<style>
+body {background-color: powderblue;}
+
+</style>
+	
+	
+	
+	  <title>Dashboard Starter UI, by Keen IO</title>
+     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+     <link rel="stylesheet" type="text/css" href="scripts/das/lib/bootstrap/dist/css/bootstrap.min.css" />
+     <link rel="stylesheet" type="text/css" href="scripts/das/css/keen-dashboards.css" />
+	</head>
+	
+	<body class="application">
+
+
+  
+
+  <div class="container-fluid">
+  
+  
+  <div class="row">
+	  <div class="col-sm-6">
+	    <div class="chart-wrapperYear">
+              <div class="chart-title">
+                Annual expenditure chart
+              </div>
+              <div class="chart-stage">
+               <div id="year-expenditure-chart"></div>
+              </div>
+
+            </div>
+		</div>
+   	
+		
+			<div class="col-sm-6">
+			<div class="chart-wrapperMon ">
+              <div class="chart-title">
+                Monthly expenditure chart
+              </div>
+              <div class="chart-stage">
+               <div id="month-expenditure-chart"></div>
+              </div>
+
+            </div>
+		</div>
+	</div>	
+		
+		
+		
+
+    <div class="row">
+	
+      <div class="col-sm-8">
+	  
+	      <div class="row">
+		     <div class="col-sm-12">
+             <div class="chart-wrapperExp">
+                <div class="chart-title">
+            Budget and expenses chart
+          </div>
+          <div class="chart-stage">
+            <div id="composite-chart"></div>
+          </div>
+          
+        </div>
+		</div>
+		</div>
+		
+		
+		
+		<div class="row">
+		     <div class="col-sm-12">
+             <div class="chart-wrapperSel">
+                <div class="chart-title">
+            Selection chart    
+                </div>
+               <div class="chart-stage">
+            <div id="selection-chart"></div>
+                </div>
+				<br> <br> <br>
+				 <div class="chart-title">
+            <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Select a time range to zoom in</p>
+                </div>
+          
+        </div>
+		</div>
+		</div>
+          
+		  
+        </div>
+		
+		
+		
+		
+		
+		
+		
+      
+      <div class="col-sm-4">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="chart-wrapperTab">
+              <div class="chart-title">
+                Transaction table
+              </div>
+              <div class="chart-stage">
+               <table id="transaction-table">
+				<thead>
+					<tr class="header">
+						<th>Date</th>
+						<th>Category Group</th>
+						<th>Category</th>
+						<th>Amount</th>
+					</tr>
+				</thead>
+			</table>
+              </div>
+
+            </div>
+          </div>
+        </div>
+       
+        
+      </div>
+    </div>
+	
+	<div class="row">
+	  <div class="col-sm-6">
+	    <div class="chart-wrapperSav">
+              <div class="chart-title">
+                Savings chart
+              </div>
+              <div class="chart-stage">
+               <div id="month-savings-chart"></div>
+              </div>
+
+            </div>
+		</div>	
+		
+			<div class="col-sm-6">
+			<div class="chart-wrapperCat ">
+              <div class="chart-title">
+                Category chart
+              </div>
+              <div class="chart-stage">
+               <div id="category-ring-chart"></div>
+              </div>
+
+            </div>
+		</div>	
+			
+			
+  </div>
+  
+ </div> 
+
+ <hr>
+
+    <!--<p class="small text-muted">Built with &#9829; by <a href="https://keen.io">Keen IO</a></p>-->
+
+  </div>
+
+  <script type="text/javascript" src="scripts/das/lib/jquery/dist/jquery.min.js"></script>
+  <script type="text/javascript" src="scripts/das/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+
+  <script type="text/javascript" src="scripts/das/lib/holderjs/holder.js"></script>
+  <script>
+    Holder.add_theme("white", { background:"#fff", foreground:"#a7a7a7", size:10 });
+  </script>
+
+  <script type="text/javascript" src="scripts/das/lib/keen-js/dist/keen.min.js"></script>
+  <script type="text/javascript" src="scripts/das/js/meta.js"></script>
+   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.js"></script>
+		<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+		<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/dc/2.1.7/dc.js"></script>
+		<script src="scripts/controllers/contact.js"></script>
+
+	</body>
+
+</html>
